@@ -1,6 +1,6 @@
 {
   "name": "nuxt-health",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Nuxt health check server middleware",
   "main": "lib/module.js",
   "scripts": {
